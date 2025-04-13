@@ -17,7 +17,7 @@ This Streamlit web app allows users to upload and analyze time series data. It s
 
 ## 🌐 Live App
 
-🔗 [Click here to try it online](https://netflix-app-app-mh39fmt2b3h8pma465dm6.streamlit.app)
+🔗 [Click here to try it online](https://netflix-app-app-mh39ftmt2b3h8pma465dm6.streamlit.app/)
 
 ---
 
